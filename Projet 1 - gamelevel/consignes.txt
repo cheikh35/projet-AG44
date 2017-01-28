@@ -1,0 +1,25 @@
+Bonjour,
+Voici les consignes de travail pour votre projet n°1 : Ariadne's thread.
+
+Ce travail doit être terminé pour le 7 novembre 2014 à 14H.
+Vous serez évalué sur ce travail à cette même date en séance de TD (un planning de passage sera établi)
+
+La 2eme séance de TP (pour le groupe A, vendredi 3 octobre, pour le groupe B, vendredi 10 octobre) est consacrée à la mise en route de ce projet.
+
+Vous avez le choix du langage de programmation (C, C++, java, python, ...).
+
+Vous devez rendre un rapport (version papier) en anglais d'une page simple (juste recto) comportant au minimum les informations suivantes :
+- nom, prénom, groupe,
+- titre du projet, date de réalisation
+- Réponses aux questions suivantes  :
+    - nom du problème de graphe implémenté
+    - choix des structures de données pour représenter le graphe et les autres informations en mémoire.
+    - algorithme(s) utilisé(s) (justification)
+    - valeurs de la matrice N pour l'exemple donné
+
+En séance de TD du 7 novembre 2014, je vous donnerai un graphe (fichier d'exemple de graphe en pièce jointe -  nombre de sommets et matrice d'adjacence) et vous devrez obtenir le plus rapidement possible les composantes fortement connexes de ce graphe et la matrice N.
+
+La question 4 du calcul de plus long chemin est une question bonus (à ne traiter que si le reste du sujet est entièrement réalisé).
+
+Karine Deschinkel
+
